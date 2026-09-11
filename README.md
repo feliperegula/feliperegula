@@ -2,47 +2,47 @@
 
 # 👋 Olá, eu sou o Felipe Neves Regula!
 
-### 💻 Aluno de Desenvolvimento de Sistemas
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-neves-regula-083414406)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/feliperegula)
-
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Estudante+de+Desenvolvimento+de+Sistemas;Focado+em+Evolu%C3%A7%C3%A3o+e+Tecnologia;SESI+%2B+SENAI" alt="Typing SVG" />
 
 </div>
 
-## 🚀 Sobre Mim
+---
 
-- 🎓 Cursando **Ensino Médio** e **Desenvolvimento de Sistemas** (SENAI / Colégio SESI).
-- 💡 Interessado em **desenvolvimento de software**, **UI/UX design** e **tecnologia**.
-- 🎨 Adoro explorar ferramentas de criação visual como **Canva** e inteligências artificiais.
-- 🎯 Atualmente focado em aprimorar minhas habilidades em lógica de programação e arquitetura de software.
+### 🚀 Sobre Mim
+
+- 🎓 Cursando **Ensino Médio no SESI** e **Técnico em Desenvolvimento de Sistemas no SENAI**.
+- 💡 Apaixonado por tecnologia, raciocínio lógico e resolução de problemas.
+- 🎨 Interessado em **desenvolvimento de software**, **UI/UX design** e exploração de ferramentas visuais e IAs.
+- 🎯 Buscando aprimorar constantemente minhas habilidades em programação e arquitetura de software.
+- 📍 Curitiba - PR, Brasil.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
-### **Linguagens & Frameworks**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### **Ferramentas & Design**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=feliperegula&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperegula&layout=compact&theme=tokyonight&hide=html,css"/>
-
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=feliperegula&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperegula&layout=compact&theme=tokyonight"/>
 </div>
+
+---
+
+### 🤝 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-neves-regula-083414406)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/feliperegula)
 
 ---
 
