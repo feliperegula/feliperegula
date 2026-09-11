@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou o Felipe Neves Regula!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Estudante+de+Desenvolvimento+de+Sistemas;Focado+em+Evolu%C3%A7%C3%A3o+e+Tecnologia;SESI+%2B+SENAI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=estudante+de+Desenvolvimento+de+Sistemas;Focado+em+Evolu%C3%A7%C3%A3o+e+Tecnologia;SESI+%2B+SENAI" alt="Typing SVG" />
 
 </div>
 
